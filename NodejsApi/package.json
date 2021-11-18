@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GiaHaoTran/giahaotran.github.io/tree/main/api-demo.git"
+    "url": "git+https://github.com/GiaHaoTran/nhom08.github.io/tree/main/NodejsApi.git"
   },
   "keywords": [
     "server"
   ],
   "bugs": {
-    "url": "https://github.com/GiaHaoTran/giahaotran.github.io/tree/main/api-demo/issues"
+    "url": "https://github.com/GiaHaoTran/nhom08.github.io/tree/main/NodejsApi/issues"
   },
-  "homepage": "https://github.com/GiaHaoTran/giahaotran.github.io/tree/main/api-demo#readme"
+  "homepage": "https://github.com/GiaHaoTran/nhom08.github.io/tree/main/NodejsApi#readme"
   
 }
